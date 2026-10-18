@@ -1,16 +1,29 @@
-## Hi there 👋
+# Alexander Rossi
 
-<!--
-**DevCreativeX9Z/DevCreativeX9Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/dev_header.png" alt="Developer Terminal" width="100%" style="border-radius: 10px;">
+</p>
 
-Here are some ideas to get you started:
+High-performance systems engineer based in Milan, Italy.  
+Focusing on real-time rendering, GPU compute kernels, telemetry streaming protocols, and low-latency data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏎️ Focus Areas & Engineering
+
+| Domain | Technologies |
+|---|---|
+| **Real-Time Graphics & Shaders** | WebGPU, Vulkan, OpenGL, GLSL/HLSL shaders, framebuffers |
+| **Telemetry & Sensor Streaming** | ZeroMQ, Protobuf, WebSockets, high-frequency time-series buffers |
+| **Physics & Math Kernels** | NumPy, Symplectic integrators, quaternion kinematics, SIMD |
+
+---
+
+### 🛡️ Engineering Approach
+
+1. **Deterministic Latency**: Eliminating garbage-collection spikes in real-time telemetry pipelines.
+2. **Symplectic Invariants**: Preserving numerical energy conservation across continuous physics steps.
+3. **Rigorous Local Verification**: Comprehensive benchmark suites verifying memory bandwidth and throughput.
+
+---
+*Python • C++ • Real-Time Graphics • Telemetry • GPU Compute*
